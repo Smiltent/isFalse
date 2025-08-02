@@ -1,0 +1,8 @@
+{
+    "name": "istrue",
+    "main": "index.js",
+    "version": "1.0",
+    "description": "Checks if a boolean is true or false",
+    "author": "Smil",
+    "license": "MIT"
+}
