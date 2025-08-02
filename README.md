@@ -18,7 +18,7 @@ npm add -g @smilt/isfalse
 
 ## Example Usage (Typescript)
 ```js
-import isFalse from 'isfalse'
+import isFalse from '@smilt/isfalse'
 
 const variable1 = false
 const variable2 = true
