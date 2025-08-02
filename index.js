@@ -11,5 +11,7 @@ function isTrue(bool) {
     }
 }
 
+module.exports = isTrue
+
 // TODO: Optimise the code
 // TODO: Allow multithreading
