@@ -7,5 +7,4 @@ module.exports = function(b) {
     return b == true ? true : false;
 }
 
-// TODO: Optimise the code
 // TODO: Allow multithreading
