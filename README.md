@@ -11,9 +11,9 @@ This is the most elegant and simplest way of figuring out if a boolean is false,
 ## How to install?
 Using your favorite node package manager, some examples below:
 ```sh
-bun install -g isfalse
-pnpm add -g isfalse
-npm add -g isfalse
+bun install -g @smilt/isfalse
+pnpm add -g @smilt/isfalse
+npm add -g @smilt/isfalse
 ```
 
 ## Example Usage (Typescript)
