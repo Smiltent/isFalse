@@ -23,8 +23,8 @@ import isFalse from '@smilt/isfalse'
 const variable1 = false
 const variable2 = true
 
-console.log(isFalse(variable1)) // Returns: false
-console.log(isFalse(variable2)) // Returns: true
+console.log(isFalse(variable1)) // Returns: true
+console.log(isFalse(variable2)) // Returns: false
 ```
 
 ## License
